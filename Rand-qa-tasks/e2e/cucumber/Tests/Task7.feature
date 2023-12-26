@@ -24,7 +24,7 @@ Feature: Add Promotions
 
 
 
- Scenario: Verify that the user can add new campaigns
+ Scenario: Verify that the user can add new campaign
         Given The user navigated to nopCommerce website
         Then  The user choose campaigns
         When  The user click on add new button

@@ -9,7 +9,7 @@ module.exports = defineConfig({
       // implement node event listeners here
       on("file:preprocessor", cucumber());
     },
-    baseUrl:"https://admin-demo.nopcommerce.com",
+    baseUrl:"",
     // viewportHeight:660,
     // viewportWidth:550,
     experimentalStudio:true, 

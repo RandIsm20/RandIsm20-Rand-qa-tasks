@@ -24,5 +24,4 @@
       "nonGlobalStepDefinitions": false,
       "step_definitions": "cypress/e2e/cucumber/Tests"
     }
-  }
-  
+}

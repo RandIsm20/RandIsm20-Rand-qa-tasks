@@ -131,7 +131,7 @@ When("The user fill the required field for new campaigns",()=>{
 When("The user click on save button for new campaigns",()=>{
 
 cy.get(".btn.btn-primary").contains("Save").click()
-cy.wait(1000)
+cy.wait(500)
     
 });
 
